@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "668730702928",
+    "firebase_url": "https://farmpro-app-default-rtdb.firebaseio.com",
+    "project_id": "farmpro-app",
+    "storage_bucket": "farmpro-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668730702928:android:b6e14666e0e0fd378b6555",
+        "android_client_info": {
+          "package_name": "com.example.maryanneapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hfof6eL7W5_AVAYPynUYDoDoKCQczC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
